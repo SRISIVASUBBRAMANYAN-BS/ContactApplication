@@ -1,0 +1,60 @@
+/* tailwind.css */
+
+/* Container styles */
+.container {
+  max-width: 1200px;
+}
+
+/* Form input styles */
+.input {
+  border: 1px solid #ccc;
+  padding: 8px;
+  margin-bottom: 16px;
+}
+
+/* Dropdown styles */
+.dropdown {
+  border: 1px solid #ccc;
+  padding: 8px;
+  margin-bottom: 16px;
+}
+
+/* Button styles */
+.button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 8px 16px;
+  cursor: pointer;
+  border: none;
+}
+
+/* Contact list styles */
+.contact-list {
+  border: 1px solid #ccc;
+  padding: 16px;
+  background-color: #fff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 16px;
+}
+
+/* Table styles */
+.table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table th,
+.table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+.table th {
+  background-color: #007bff;
+  color: #fff;
+}
+body {
+  background-color: #ff6b6b; /* Luminous Pink */
+  color: #fff; /* White text on pink background */
+}
